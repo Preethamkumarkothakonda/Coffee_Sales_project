@@ -69,7 +69,7 @@ Full SQL script is included in the repository for reproducibility.
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](Dashboard.png)
+!(Dashboard.png)
 
 🚀 How to Use
 Import the SQL schema and CSV file into your MySQL database.
