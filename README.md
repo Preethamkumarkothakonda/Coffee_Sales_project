@@ -67,7 +67,9 @@ GROUP BY MONTH(transaction_date)
 Full SQL script is included in the repository for reproducibility.
 
 
-🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
+
+![Dashboard](Dashboard.png)
 
 🚀 How to Use
 Import the SQL schema and CSV file into your MySQL database.
