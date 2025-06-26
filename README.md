@@ -33,7 +33,9 @@ This interactive dashboard visualizes key performance metrics for a fictional co
 - CSV as data source (exported from SQL)
 
 ---
+## 🖼️ Dashboard Preview
 
+![Dashboard](Dashboard.png)
 ## 🛠️ SQL Data Preparation
 
 SQL was used for:
@@ -67,9 +69,6 @@ GROUP BY MONTH(transaction_date)
 Full SQL script is included in the repository for reproducibility.
 
 
-## 🖼️ Dashboard Preview
-
-![Dashboard](Dashboard.png)
 
 
 🚀 How to Use
